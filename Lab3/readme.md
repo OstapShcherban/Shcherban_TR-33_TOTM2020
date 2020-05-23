@@ -22,9 +22,11 @@
     <li>Яка вершина (вершини) буде знайдена останньою? <p><b>Останні вершини – 3 або 4.</b></p></li>
   <li>Визначити чи існують цикли. Вказати послідовність ребер і їх довжину. <p><b>Циклів обходу ребер і вершин нема.</b></p></li>
     <li>Визначити кількість хвиль, які пройдуть по ребрах доки буде виявлена остання вершина. <p><b>Щоб визначити останню вершину пройдуть 2 хвилі по ребрах</b></p></li>
-    <li>Побудувати дерево за алгоритмом обходу в глибину (DFS)<p align="center"><img src="https://github.com/OstapShcherban/Shcherban_TR-33_TOTM2020/blob/master/Lab3/37.png"></p></li>
     </ul>
-  <li>Побудувати дерево шляхів рангом r=4 для випадкового графа G={6,9} <p align="center"><img src="https://github.com/OstapShcherban/Shcherban_TR-33_TOTM2020/blob/master/Lab3/38.png">
+  <li>Побудувати дерево шляхів рангом r=4 для випадкового графа G={6,9} <p align="center"><img src="https://github.com/OstapShcherban/Shcherban_TR-33_TOTM2020/blob/master/Lab3/37.png">
+      <p align="center"><img src="https://github.com/OstapShcherban/Shcherban_TR-33_TOTM2020/blob/master/Lab3/38.png"><img src="https://github.com/OlhaBabii/Babii_TR31_TOTM2020/blob/master/LAB3/11.jpg"></p> <p align="center">Графічне представлення графа</p> <p align="center"> <img src="https://github.com/OstapShcherban/Shcherban_TR-33_TOTM2020/blob/master/Lab3/39.png"> </p> <p align="center">Мінімальне зв’язне дерево графа з вагою 29</p>
+  </li>
+</ol>
 <strong>Висновок:</strong> В результаті виконання даної лабораторної роботи було досягнуто навичок застосовування алгоритмів обходу графів,   побудови дерева шляхів та мінімального зв’язного дерева.
 
 
