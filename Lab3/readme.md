@@ -15,16 +15,16 @@
   <li>Чи будуть однаковими топології дерев побудованих з різних кореневих вершин? Чому? <p><b>Топології будуть відрізнятися, а також їхні ваги будуть різні.</b></p></li>
  </ul>
   <li>За допомогою лабораторного макету побудувати випадковий орієнтований граф G={6,10}
-    <p align="center"><img src="https://github.com/OstapShcherban/Shcherban_TR-33_TOTM2020/blob/master/Lab3/36.png"></p>
+    <p align="center"><img src="https://github.com/OstapShcherban/Shcherban_TR-33_TOTM2020/blob/master/Lab3/35.png"></p>
   </li>
   <ul>
-    <li>Побудувати дерево за алгоритмом обходу в ширину (BFS) <p align="center"><img src="https://github.com/OstapShcherban/Shcherban_TR-33_TOTM2020/blob/master/Lab3/37.png"></p><p align="center">Обхід графа в ширину. Коренева вершина – 6</p></li>
+    <li>Побудувати дерево за алгоритмом обходу в ширину (BFS) <p align="center"><img src="https://github.com/OstapShcherban/Shcherban_TR-33_TOTM2020/blob/master/Lab3/36.png"></p><p align="center">Обхід графа в ширину. Коренева вершина – 6</p></li>
     <li>Яка вершина (вершини) буде знайдена останньою? <p><b>Останні вершини – 3 або 4.</b></p></li>
   <li>Визначити чи існують цикли. Вказати послідовність ребер і їх довжину. <p><b>Циклів обходу ребер і вершин нема.</b></p></li>
     <li>Визначити кількість хвиль, які пройдуть по ребрах доки буде виявлена остання вершина. <p><b>Щоб визначити останню вершину пройдуть 2 хвилі по ребрах</b></p></li>
-    <li>Побудувати дерево за алгоритмом обходу в глибину (DFS)<p align="center"><img src="https://github.com/OstapShcherban/Shcherban_TR-33_TOTM2020/blob/master/Lab3/38.png"></p></li>
+    <li>Побудувати дерево за алгоритмом обходу в глибину (DFS)<p align="center"><img src="https://github.com/OstapShcherban/Shcherban_TR-33_TOTM2020/blob/master/Lab3/37.png"></p></li>
     </ul>
-  <li>Побудувати дерево шляхів рангом r=4 для випадкового графа G={6,9} <p align="center"><img src="https://github.com/OstapShcherban/Shcherban_TR-33_TOTM2020/blob/master/Lab3/39.png">
+  <li>Побудувати дерево шляхів рангом r=4 для випадкового графа G={6,9} <p align="center"><img src="https://github.com/OstapShcherban/Shcherban_TR-33_TOTM2020/blob/master/Lab3/38.png">
 <strong>Висновок:</strong> В результаті виконання даної лабораторної роботи було досягнуто навичок застосовування алгоритмів обходу графів,   побудови дерева шляхів та мінімального зв’язного дерева.
 
 
