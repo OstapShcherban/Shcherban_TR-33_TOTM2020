@@ -10,8 +10,7 @@
   <p align="center"><img src="https://github.com/OstapShcherban/Shcherban_TR-33_TOTM2020/blob/master/Lab3/33.png"></p><p align="center"> <p align="center">Обхід в ширину. Коренева вершина – 1</p>
  <li>Чи будуть однаковими топології дерев побудованих з різних кореневих вершин? Чому?  <p><b>Топології схожі, а також ранги для для двох вершин будуть однакові.</b></p></li>
  <li>Побудувати дерево за алгоритмом обходу в глибину (DFS); (для 2-х різних вершин)
- <p align="center"><img src="https://github.com/OstapShcherban/Shcherban_TR-33_TOTM2020/blob/master/Lab3/34.png"></p><p align="center">Обхід в глибину. Коренева вершина – 1</p>
-   <p align="center"><img src="https://github.com/OstapShcherban/Shcherban_TR-33_TOTM2020/blob/master/Lab3/35.png"></p> <p align="center">Обхід в глибину. Коренева вершина – 5</p>
+ <p align="center"><img src="https://github.com/OstapShcherban/Shcherban_TR-33_TOTM2020/blob/master/Lab3/34.png"></p><p align="center">Обхід в глибину. Коренева вершина – 1 та 5</p>
   </li>
   <li>Чи будуть однаковими топології дерев побудованих з різних кореневих вершин? Чому? <p><b>Топології будуть відрізнятися, а також їхні ваги будуть різні.</b></p></li>
  </ul>
